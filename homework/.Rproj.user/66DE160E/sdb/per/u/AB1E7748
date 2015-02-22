@@ -1,0 +1,17 @@
+{
+    "contents" : "---\ntitle: \"HelloWorld.md\"\noutput: html_document\n---\n##This is a markdown file",
+    "created" : 1424551250123.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "3103772918",
+    "id" : "AB1E7748",
+    "lastKnownWriteTime" : 30962681237012597,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}
